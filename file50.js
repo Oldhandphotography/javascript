@@ -12,4 +12,4 @@ var firstName = "sopuvik";
 // console.log(firstName)
 //this can access anywhere
 }
-//this can even access from here console.log(firstName);
+//this can even access from here console.log(firstName)+;
