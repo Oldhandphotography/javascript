@@ -1,5 +1,5 @@
 //new keyword
-
+//marry chrismaS
 //isko constructor function bhi bolte hain
 function createUser(firstName , age){
     this.firstName= firstName;
